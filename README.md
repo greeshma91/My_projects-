@@ -1,3 +1,3 @@
 # My_projects-
  
-Trying to work on data science projects of different domains.
+Working on data science projects of different domains to learn & sharpen my skills.
